@@ -1,1 +1,2 @@
 # The Open Source Audit — Linux Kernel
+![Bash](https://img.shields.io/badge/Language-Bash-green) | ![Platform](https://img.shields.io/badge/Platform-Linux-orange) | ![License](https://img.shields.io/badge/License-MPL%202.0-blue) | ![Course](https://img.shields.io/badge/Course-Open%20Source%20Software-brightgreen)
