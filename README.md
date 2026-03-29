@@ -73,14 +73,8 @@ Root access may be required for inspecting /lib/modules or installing kernel pac
 <img width="644" height="572" alt="Screenshot 2026-03-29 195020" src="https://github.com/user-attachments/assets/28d1f6e4-37b6-4af4-bc11-19e7d6841588" />
 
 ## Repository Structure
-oss-audit-24MIP10141/
-├── 01_system_identity.sh       # Script 1: System Identity Report
-├── 02_package_inspector.sh     # Script 2: Linux Kernel Package Inspector
-├── 03_disk_auditor.sh          # Script 3: Disk and Permission Auditor
-├── 04_log_analyzer.sh          # Script 4: Log File Analyzer
-├── 05_manifesto_generator.sh   # Script 5: Manifesto Generator
-├── OSS_Capstone_AishwaryaRangu_24MIP10141.docx  # Full project report
-└── README.md                   # This file
+<img width="619" height="213" alt="image" src="https://github.com/user-attachments/assets/9fd6783f-5e41-4f18-8b47-984d072af071" />
+
 
 ## Software Analyzed: Linux Kernel
 The Linux Kernel is the open-source core of all Linux operating systems, maintained by Linus Torvalds and thousands of contributors worldwide. It powers everything from personal computers and servers to supercomputers and embedded devices.
