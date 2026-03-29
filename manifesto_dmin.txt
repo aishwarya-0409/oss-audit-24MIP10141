@@ -1,9 +1,0 @@
-----------------------------------------
-     Open Source Manifesto — Linux
-----------------------------------------
-Date: 29 March 2026
-
-Every time I use Linux, I am reminded that powerful systems like the Linux Kernel exist because people chose to share their work with the world.
-For me, freedom in open source means Ownership — the ability to learn, modify, and build without limits.
-Inspired by this philosophy, I aspire to create AI powered daily based app and contribute it back to the community.
-Just like the Linux Kernel forms the foundation of modern computing, I believe knowledge should remain open, collaborative, and ever-evolving.
